@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8532
+D Dual Op amp (low power)
+K ampliop
+F C:/A/dcf77/datasheets/AD8531_8532_8534.pdf
+$ENDCMP
+#
+$CMP FGPMMOPA6C
+D GPS standalone module
+K gps fgpmmopa6c mtk3339
+F C:/A/dcf77/datasheets/GlobalTop-FGPMMOPA6C-Datasheet-V0A-Preliminary.pdf
+$ENDCMP
+#
+$CMP INA_139
+D INA1x9 High-Side Measurement Current Shunt Monitor
+K Measurement Current Shunt Monitor
+F C:/A/dcf77/datasheets/ina139.pdf
+$ENDCMP
+#
+$CMP lt4054-4.2
+D Standalone Linear Li-Ion Battery Charger with Thermal Regulation in ThinSOT
+K Linear Li-Ion Battery Charger 
+F C:/A/dcf77/datasheets/405442xf.pdf
+$ENDCMP
+#
+$CMP lt4054_4_2
+D Standalone Linear Li-Ion Battery Charger with Thermal Regulation in ThinSOT
+K Linear Li-Ion Battery Charger 
+F C:/A/dcf77/datasheets/405442xf.pdf
+$ENDCMP
+#
+#End Doc Library

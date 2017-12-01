@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project xsi:noNamespaceSchemaLocation="Project.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Version current="1"/>
+	<Format>Project</Format>
+	<Header>
+		<Program name="TopoR" version="6.2"/>
+		<GUID>{99BD6A8E-D078-4BAC-9176-3A697F90D100}</GUID>
+		<Annotation>Project file</Annotation>
+	</Header>
+	<Document>
+		<LocalLibrary />
+		<Pcb>
+			<File path=".\dcf77.fsx" isopened="0"/>
+		</Pcb>
+		<Import>
+			<Specctra>
+			<Path name="C:\A\dcf77\ki\dcf77.dsn"/>
+			</Specctra>
+		</Import>
+		<ARouteSessions>
+			<Session name="dcf77" date="2016-05-14 15:36:00" path=".\autoroute_dcf77_160514153600\">
+			<File path=".\autoroute_dcf77_160514153600\dcf77_3228-15s.fsb" isopened="0"/>
+			</Session>
+		</ARouteSessions>
+	</Document>
+</Project>

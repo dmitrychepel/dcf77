@@ -1,0 +1,16 @@
+
+http://radiobooka.ru/antenn/47-magnitnaya-antenna-neotemlemaya-chast-pochti-vsex.html
+http://www.elv.de/dcf-empfangsmodul-dcf-2.html
+http://www.sundgren.se/1-recreation/2-electronics/dcf77_protokoll.htm
+http://blog.blinkenlight.net/2012/12/01/dcf77-project/
+http://www.sundgren.se/1-recreation/2-electronics/dcf77_simulator.htm
+http://pda.teron.ru/index.php?showtopic=909610
+http://coaa.co.uk/radioclock.htm
+http://forum.arduino.cc/index.php?topic=232896.0
+http://forum.watch.ru/archive/index.php/t-173406.html
+http://hairy.geek.nz/projects/hardware-ntp-server/clock-synchronisation-methods/
+http://playground.arduino.cc/Code/DCF77
+http://thijs.elenbaas.net/2012/04/arduino-dcf77-radio-clock-receiver-hardware-2/
+http://journal.gladkiy.me/radiosinhronizatsiya-chasov-s-vy-shkoj-dcf77-v-germanii/
+http://www.kaligraf.narod.ru/DCF77_protokol.html
+http://www.adafruit.com/datasheets/PMTK_A11.pdf
